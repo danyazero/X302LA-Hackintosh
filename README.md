@@ -22,7 +22,7 @@ SSD: Samsung EVO 870<br>
  # What work<br>
  All other devices are up and running.
 
- - Intel Boost
+ - Intel Turbo Boost
  - Intel HD 5500
  - Sound
  - Jack
