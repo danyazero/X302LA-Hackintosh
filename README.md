@@ -1,16 +1,16 @@
-# X302LA-Hackintosh<br>
+# Asus X302LA Hackintosh<br>
 
 ![image1](https://user-images.githubusercontent.com/97092438/181011028-b07e8552-9c6d-4865-91f9-539d698e1e84.png)
  For me this efi work with BigSur & Monterey, without any changes.
 
 
 # Specifications<br>
-CPU: Intel core i5 5200U - 5th generation Intel i5 processors - Broadwell<br>
-IGPU: Intel HD 5500 - 2048 Mb<br>
-RAM: 8GB DDR3<br>
-LAN: Realtek 8168/8111<br>
-WIFI: Intel AC7260hmw WiFi + Bluetooth 4.0 (replaced)<br>
-SSD: Samsung EVO 870<br>
+<b>CPU:</b> Intel core i5 5200U - 5th generation Intel i5 processors - Broadwell<br>
+<b>IGPU:</b> Intel HD 5500 - 2048 Mb<br>
+<b>RAM:</b> 8GB DDR3<br>
+<b>LAN:</b> Realtek 8168/8111<br>
+<b>WIFI:</b> Intel AC7260hmw WiFi + Bluetooth 4.0 (replaced)<br>
+<b>SSD:</b> Samsung EVO 870<br>
 
 
 # What does not work<br>
